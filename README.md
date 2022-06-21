@@ -36,3 +36,13 @@ mnist_cnn.py の結果です。SGDのlrが最も精度に寄与してるって�
 - [Optuna](https://www.preferred.jp/ja/projects/optuna/)
 - [optuna-examples](https://github.com/optuna/optuna-examples)
 - [optuna-dashboard](https://github.com/optuna/optuna-dashboard)
+
+
+## Apple Silicon Metal on Pytorch
+
+次の Pytorch 1.12 には Metal 対応が入るみたい。素晴らしい！
+
+これは[Pytorch v1.12.0-rc5](https://github.com/pytorch/pytorch)で実行です。
+
+[Apple-Silicon-mps](Apple-Silicon-mps.png)
+
