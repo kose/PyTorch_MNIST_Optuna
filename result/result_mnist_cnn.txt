@@ -1,0 +1,119 @@
+mnist_cnn: Tue Jun 21 07:27:23 JST 2022 -> 07:32:01
+Study statistics: 
+  Number of finished trials:  10
+  Number of pruned trials:  5
+  Number of complete trials:  5
+Best trial:
+  Value:  0.097
+  Params: 
+    dropout1: 0.31793592328059367
+    dropout2: 0.4238490208898915
+    kernel_size: 3
+    lr: 0.00435201999886317
+    n_cnn1: 92
+    n_cnn2: 24
+    n_ln: 1749
+    optimizer: RMSprop
+
+mnist_cnn: Tue Jun 21 07:33:41 JST 2022 -> 07:33:43
+Study statistics: 
+  Number of finished trials:  11
+  Number of pruned trials:  5
+  Number of complete trials:  5
+Best trial:
+  Value:  0.097
+  Params: 
+    dropout1: 0.31793592328059367
+    dropout2: 0.4238490208898915
+    kernel_size: 3
+    lr: 0.00435201999886317
+    n_cnn1: 92
+    n_cnn2: 24
+    n_ln: 1749
+    optimizer: RMSprop
+
+mnist_cnn: Tue Jun 21 07:58:26 JST 2022 -> 08:41:16
+Study statistics: 
+  Number of finished trials:  101
+  Number of pruned trials:  84
+  Number of complete trials:  16
+Best trial:
+  Value:  0.05633333333333333
+  Params: 
+    dropout1: 0.4437287101477556
+    dropout2: 0.34672322559083885
+    kernel_size: 5
+    lr: 3.677366793281136e-05
+    n_cnn1: 145
+    n_cnn2: 39
+    n_ln: 1737
+    optimizer: SGD
+
+mnist_cnn: Tue Jun 21 09:22:49 JST 2022 -> 09:47:54
+Study statistics: 
+  Number of finished trials:  200
+  Number of pruned trials:  180
+  Number of complete trials:  19
+Best trial:
+  Value:  0.05633333333333333
+  Params: 
+    dropout1: 0.4437287101477556
+    dropout2: 0.34672322559083885
+    kernel_size: 5
+    lr: 3.677366793281136e-05
+    n_cnn1: 145
+    n_cnn2: 39
+    n_ln: 1737
+    optimizer: SGD
+
+mnist_cnn: Tue Jun 21 10:26:23 JST 2022 -> 10:49:14
+Study statistics: 
+  Number of finished trials:  300
+  Number of pruned trials:  278
+  Number of complete trials:  21
+Best trial:
+  Value:  0.05633333333333333
+  Params: 
+    dropout1: 0.4437287101477556
+    dropout2: 0.34672322559083885
+    kernel_size: 5
+    lr: 3.677366793281136e-05
+    n_cnn1: 145
+    n_cnn2: 39
+    n_ln: 1737
+    optimizer: SGD
+
+mnist_cnn: Tue Jun 21 10:56:30 JST 2022 -> 11:24:08
+Study statistics: 
+  Number of finished trials:  400
+  Number of pruned trials:  374
+  Number of complete trials:  25
+Best trial:
+  Value:  0.05633333333333333
+  Params: 
+    dropout1: 0.4437287101477556
+    dropout2: 0.34672322559083885
+    kernel_size: 5
+    lr: 3.677366793281136e-05
+    n_cnn1: 145
+    n_cnn2: 39
+    n_ln: 1737
+    optimizer: SGD
+
+mnist_cnn: Tue Jun 21 11:43:50 JST 2022 -> 12:14:07
+Study statistics: 
+  Number of finished trials:  500
+  Number of pruned trials:  469
+  Number of complete trials:  30
+Best trial:
+  Value:  0.043
+  Params: 
+    dropout1: 0.4588057319710802
+    dropout2: 0.23945779086334015
+    kernel_size: 5
+    lr: 2.1646253586250962e-05
+    n_cnn1: 143
+    n_cnn2: 78
+    n_ln: 1908
+    optimizer: SGD
+

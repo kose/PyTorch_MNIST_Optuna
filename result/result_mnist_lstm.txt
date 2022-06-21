@@ -1,0 +1,78 @@
+mnist_lstm: Tue Jun 21 07:22:47 JST 2022 -> 07:27:21
+Study statistics: 
+  Number of finished trials:  10
+  Number of pruned trials:  2
+  Number of complete trials:  8
+Best trial:
+  Value:  0.089
+  Params: 
+    hidden_dim: 44
+    lr: 0.0005734849967066008
+    lstm_layers: 1
+    optimizer: SGD
+
+mnist_lstm: Tue Jun 21 07:33:39 JST 2022 -> 07:33:40
+Study statistics: 
+  Number of finished trials:  11
+  Number of pruned trials:  2
+  Number of complete trials:  8
+Best trial:
+  Value:  0.089
+  Params: 
+    hidden_dim: 44
+    lr: 0.0005734849967066008
+    lstm_layers: 1
+    optimizer: SGD
+
+mnist_lstm: Tue Jun 21 07:45:48 JST 2022 -> 07:58:25
+Study statistics: 
+  Number of finished trials:  101
+  Number of pruned trials:  76
+  Number of complete trials:  24
+Best trial:
+  Value:  0.051666666666666666
+  Params: 
+    hidden_dim: 64
+    lr: 0.0006701398331828342
+    lstm_layers: 1
+    optimizer: SGD
+
+mnist_lstm: Tue Jun 21 09:12:59 JST 2022 -> 09:22:48
+Study statistics: 
+  Number of finished trials:  201
+  Number of pruned trials:  162
+  Number of complete trials:  37
+Best trial:
+  Value:  0.051666666666666666
+  Params: 
+    hidden_dim: 64
+    lr: 0.0006701398331828342
+    lstm_layers: 1
+    optimizer: SGD
+
+mnist_lstm: Tue Jun 21 10:19:50 JST 2022 -> 10:26:21
+Study statistics: 
+  Number of finished trials:  400
+  Number of pruned trials:  338
+  Number of complete trials:  60
+Best trial:
+  Value:  0.04033333333333333
+  Params: 
+    hidden_dim: 71
+    lr: 0.00015240899207931294
+    lstm_layers: 1
+    optimizer: SGD
+
+mnist_lstm: Tue Jun 21 11:39:29 JST 2022 -> 11:43:49
+Study statistics: 
+  Number of finished trials:  500
+  Number of pruned trials:  433
+  Number of complete trials:  65
+Best trial:
+  Value:  0.04033333333333333
+  Params: 
+    hidden_dim: 71
+    lr: 0.00015240899207931294
+    lstm_layers: 1
+    optimizer: SGD
+

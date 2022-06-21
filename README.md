@@ -18,6 +18,10 @@
 [pytorch_simple.py](https://github.com/optuna/optuna-examples/blob/main/pytorch/pytorch_simple.py)を改造。
 
 
+```
+sh 00train.sh
+```
+
 
 ## optuna-dashboard
 
