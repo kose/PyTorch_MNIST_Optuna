@@ -14,7 +14,7 @@
 - [optuna-dashboard](https://github.com/optuna/optuna-dashboard)で手軽に進捗確認できます。
 
 
-## サンプル
+## 最適化の実行
 
 [pytorch_simple.py](https://github.com/optuna/optuna-examples/blob/main/pytorch/pytorch_simple.py)を改造。
 
