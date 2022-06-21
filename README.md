@@ -44,5 +44,5 @@ mnist_cnn.py の結果です。SGDのlrが最も精度に寄与してるって�
 
 これは[Pytorch v1.12.0-rc5](https://github.com/pytorch/pytorch)で実行です。
 
-[Apple-Silicon-mps](Apple-Silicon-mps.png)
+![Apple-Silicon-mps](Apple-Silicon-mps.png)
 
